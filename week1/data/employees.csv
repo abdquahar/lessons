@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,department,salary,hire_date,city,is_active
+1,Alice,Johnson,Engineering,95000,2021-03-15,New York,true
+2,Bob,Smith,Marketing,72000,2020-07-01,Chicago,true
+3,Carol,Williams,Engineering,110000,2019-11-20,San Francisco,true
+4,David,Brown,Sales,68000,2022-01-10,Chicago,true
+5,Eve,Davis,Marketing,76000,2021-09-05,New York,true
+6,Frank,Miller,Sales,71000,2020-04-22,Houston,true
+7,Grace,Wilson,Engineering,98000,2018-06-30,San Francisco,true
+8,Hank,Moore,HR,62000,2023-02-14,New York,true
+9,Iris,Taylor,Engineering,125000,2017-08-01,San Francisco,false
+10,James,Anderson,Marketing,79000,2022-11-01,Chicago,false
+11,Karen,Thomas,HR,65000,2021-05-19,Houston,true
+12,Leo,Jackson,Sales,73000,2020-09-15,New York,true
+13,Mia,White,Engineering,89000,2022-07-04,Chicago,true
+14,Nate,Harris,Marketing,67000,2023-01-30,San Francisco,true
+15,Olivia,Martin,HR,60000,2022-08-22,Houston,false
+16,Paul,Garcia,Sales,77000,2019-03-11,New York,true
+17,Quinn,Martinez,Engineering,102000,2020-12-01,San Francisco,true
+18,Rose,Robinson,Marketing,83000,2018-10-08,Chicago,true
+19,Sam,Clark,Sales,69000,2021-06-17,Houston,true
+20,Tina,Rodriguez,HR,58000,2023-06-01,New York,true
